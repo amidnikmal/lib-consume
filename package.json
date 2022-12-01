@@ -1,0 +1,16 @@
+{
+  "name": "vue-composition-api-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "2.7.14"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~4.5.18"
+  }
+}
